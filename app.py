@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Diego Vallejo Mijallo
-# URL Streamlit Cloud: 
-# URL GitHub: 
+# URL Streamlit Cloud: https://diego-vallejo-mda13-bc5.streamlit.app
+# URL GitHub: https://github.com/Mijayo/ISDI_BC5_MD13.git
 
 # ============================================================
 # IMPORTS
