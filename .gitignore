@@ -417,3 +417,6 @@ FodyWeavers.xsd
 *.msm
 *.msp
 DiegoVallejo_BC5.py
+
+# Streamlit secrets (credenciales locales, nunca subir al repositorio)
+.streamlit/secrets.toml
